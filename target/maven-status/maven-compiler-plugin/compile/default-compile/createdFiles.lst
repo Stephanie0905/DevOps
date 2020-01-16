@@ -1,0 +1,12 @@
+com\example\demo\common\RestPreconditions.class
+com\example\demo\common\IEntity.class
+com\example\demo\services\IPrivilegeService.class
+com\example\demo\entities\Privilege.class
+com\example\demo\Demo1Application.class
+com\example\demo\common\AbstractService.class
+com\example\demo\common\AbstractController.class
+com\example\demo\services\PrivilegeServiceImpl.class
+com\example\demo\common\IService.class
+com\example\demo\dao\IPrivilegeJpaDao.class
+com\example\demo\common\IOperations.class
+com\example\demo\controllers\PrivilegeController.class
